@@ -9,7 +9,7 @@ docker run [user]/fullcycle
 Temos que ter o seguinte resultado: Full Cycle Rocks!!.".
 Além disso, a imagem tem de ter no máximo 2MB.
 
-# Execução
+# Comando de Execução
 
 docker run robertarodrigues/fullcycle
 
