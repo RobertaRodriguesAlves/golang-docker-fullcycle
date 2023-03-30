@@ -2,7 +2,7 @@
 Este repositório faz parte do desafio final do curso de Docker da plataforma FullCycle.
 
 # Descrição do desafio
-"[...]publicar uma imagem no docker hub. Quando executarmos:
+Fazendo uso da linguagem Go, "[...]publicar uma imagem no docker hub. Quando executarmos:
 
 docker run <seu-user>/fullcycle
 
