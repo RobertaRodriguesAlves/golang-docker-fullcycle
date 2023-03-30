@@ -4,7 +4,7 @@ Este repositório faz parte do desafio final do curso de Docker da plataforma Fu
 # Descrição do desafio
 Fazendo uso da linguagem Go, "[...]publicar uma imagem no docker hub. Quando executarmos:
 
-docker run <seu-user>/fullcycle
+docker run [user]/fullcycle
 
 Temos que ter o seguinte resultado: Full Cycle Rocks!!"
 
